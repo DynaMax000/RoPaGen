@@ -46,3 +46,51 @@ Secrets & String 🔑 – Secure password generation
 
 Pyperclip 📋 – Clipboard integration
 
+
+🛠️ Technologies Used
+Python 🐍 – Core programming language
+
+Tkinter 🖥️ – GUI framework
+
+Secrets & String 🔑 – Secure password generation
+
+Pyperclip 📋 – Clipboard integration
+
+# Installation & Usage
+🔧 Requirements
+Make sure you have Python 3.x installed.
+
+📥 Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/rolling-password-generator.git
+cd rolling-password-generator
+📦 Install Dependencies
+bash
+Copy
+Edit
+pip install pyperclip
+▶️ Run the Application
+bash
+Copy
+Edit
+python rolling_password_generator.py
+🔹 How to Use
+1️⃣ Enter the password length and time interval (in seconds)
+2️⃣ Select the character set (lowercase, uppercase, digits, symbols)
+3️⃣ Click “Generate” to start rolling password generation
+4️⃣ Monitor the live password display in both windows
+5️⃣ Click “Copy to Clipboard” to copy the latest password
+6️⃣ Click “Stop Generation” to halt automatic updates
+
+📜 License
+This project is licensed under the Apache 2.0 License – Read More.
+
+🤝 Contributing
+Feel free to fork this project and submit pull requests for improvements!
+
+📬 Contact
+👤 Your Name
+📧 your.email@example.com
+🌐 GitHub Profile
